@@ -1,0 +1,24 @@
+# Visual Studio
+.vs/
+*.sln
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+# UE 编译输出
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# 但保留这些
+!Config/
+!Content/
+!Source/
+!*.uproject
+!.vsconfig
